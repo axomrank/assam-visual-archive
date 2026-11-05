@@ -1,0 +1,34 @@
+:root{color-scheme:light;--paper:#f5f1e7;--ink:#222b22;--forest:#203a2d;--gold:#efb868;--line:#d8cfbe}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:1rem/1.55 system-ui,sans-serif}
+header,footer{padding:1.1rem max(5vw,1rem);background:var(--forest);color:var(--paper)}
+header{display:flex;justify-content:space-between;gap:1rem;font-size:.82rem}
+a{color:inherit}
+header a:first-child,.eyebrow{letter-spacing:.16em;font-weight:700}
+.hero{display:grid;align-items:end;min-height:clamp(360px,58vw,630px);padding:clamp(1.5rem,6vw,6rem);color:white;background:linear-gradient(90deg,#102a20f5,#14291d85 50%,#172b2340),url("media/scenes/15th-century/c15-bhuyan-village-sankardev.webp") center 48%/cover}
+.eyebrow,.hero h1 span{color:var(--gold)}
+.hero h1{font:normal clamp(5rem,16vw,13rem)/.84 Georgia,serif;margin:.2em 0}
+.hero p:last-child{max-width:33ch;font-size:clamp(1rem,2vw,1.35rem)}
+.catalogue{max-width:1500px;margin:auto;padding:clamp(1rem,5vw,4rem)}
+h2{font:normal clamp(2rem,4vw,3.4rem)/1.08 Georgia,serif;margin:.3em 0 .7em;overflow-wrap:anywhere}
+[role=search]{display:grid;grid-template-columns:2fr 1fr 1fr;gap:1rem}
+label{display:grid;gap:.3rem;font-size:.85rem;font-weight:650;min-width:0}
+input,select,button{font:inherit;color:inherit}
+input,select{padding:.6rem;border:1px solid #8d877c;background:#fffdf6;width:100%;border-radius:.2rem}
+button{cursor:pointer}
+#gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,230px),1fr));gap:1rem}
+.card{padding:0;border:1px solid var(--line);background:#fffdf6;text-align:left;overflow:hidden}
+.card:hover{border-color:var(--forest)}
+.card img,.placeholder{display:block;width:100%;aspect-ratio:4/3;object-fit:contain;background:#e8e3d6}
+.placeholder{display:grid;place-items:center;color:var(--forest);letter-spacing:.15em;font-size:.75rem}
+.card>span:last-child{display:grid;gap:.35rem;padding:.75rem;overflow-wrap:anywhere}
+.card small{color:#4c624e}
+#more,dialog button{padding:.55rem 1rem;background:var(--forest);color:white;border:0}
+#more{margin-top:1rem}
+dialog{border:1px solid var(--line);width:min(860px,94vw);max-height:90vh;padding:1.25rem;background:var(--paper);color:var(--ink)}
+dialog::backdrop{background:#0e201bd9}
+dialog form{text-align:right}
+dialog img{display:block;width:100%;max-height:62vh;object-fit:contain}
+dialog a{display:inline-block;margin:.4rem 1rem .4rem 0}
+:focus-visible{outline:3px solid #a46222;outline-offset:3px}
+@media(max-width:620px){[role=search]{grid-template-columns:1fr 1fr}[role=search] label:first-child{grid-column:1/-1}}

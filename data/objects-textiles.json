@@ -1,0 +1,32 @@
+[
+  {
+    "id": "elements/textiles/eri-silk-swatch",
+    "title": "Eri Silk Swatch",
+    "image": "media/elements/textiles/eri-silk-swatch.webp"
+  },
+  {
+    "id": "elements/textiles/gamosa-red-white",
+    "title": "Gamosa Red White",
+    "image": "media/elements/textiles/gamosa-red-white.webp"
+  },
+  {
+    "id": "elements/textiles/muga-mekhela",
+    "title": "Muga Mekhela",
+    "image": "media/elements/textiles/muga-mekhela.webp"
+  },
+  {
+    "id": "elements/textiles/muga-riha",
+    "title": "Muga Riha",
+    "image": "media/elements/textiles/muga-riha.webp"
+  },
+  {
+    "id": "elements/textiles/muga-sador",
+    "title": "Muga Sador",
+    "image": "media/elements/textiles/muga-sador.webp"
+  },
+  {
+    "id": "elements/textiles/pat-silk-swatch",
+    "title": "Pat Silk Swatch",
+    "image": "media/elements/textiles/pat-silk-swatch.webp"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "elements/household/bota-offering-tray",
+    "title": "Bota Offering Tray",
+    "image": "media/elements/household/bota-offering-tray.webp"
+  },
+  {
+    "id": "elements/household/brass-bell-metal-utensils",
+    "title": "Brass Bell Metal Utensils",
+    "image": "media/elements/household/brass-bell-metal-utensils.webp"
+  },
+  {
+    "id": "elements/household/chaloni-bamboo-sieve",
+    "title": "Chaloni Bamboo Sieve",
+    "image": "media/elements/household/chaloni-bamboo-sieve.webp"
+  },
+  {
+    "id": "elements/household/doon-grain-measure",
+    "title": "Doon Grain Measure",
+    "image": "media/elements/household/doon-grain-measure.webp"
+  },
+  {
+    "id": "elements/household/duli-grain-basket",
+    "title": "Duli Grain Basket",
+    "image": "media/elements/household/duli-grain-basket.webp"
+  },
+  {
+    "id": "elements/household/guru-asan-minimal-3d-alt",
+    "title": "Guru Asan Minimal 3D Alt",
+    "image": "media/elements/household/guru-asan-minimal-3d-alt.webp"
+  },
+  {
+    "id": "elements/household/guru-asan-minimal-3d",
+    "title": "Guru Asan Minimal 3D",
+    "image": "media/elements/household/guru-asan-minimal-3d.webp"
+  },
+  {
+    "id": "elements/household/khorahi-bamboo-basket",
+    "title": "Khorahi Bamboo Basket",
+    "image": "media/elements/household/khorahi-bamboo-basket.webp"
+  },
+  {
+    "id": "elements/household/kula-winnowing-tray",
+    "title": "Kula Winnowing Tray",
+    "image": "media/elements/household/kula-winnowing-tray.webp"
+  },
+  {
+    "id": "elements/household/lota-brass-water-pot",
+    "title": "Lota Brass Water Pot",
+    "image": "media/elements/household/lota-brass-water-pot.webp"
+  },
+  {
+    "id": "elements/household/pira-wooden-seat",
+    "title": "Pira Wooden Seat",
+    "image": "media/elements/household/pira-wooden-seat.webp"
+  },
+  {
+    "id": "elements/household/saki-earthen-oil-lamp",
+    "title": "Saki Earthen Oil Lamp",
+    "image": "media/elements/household/saki-earthen-oil-lamp.webp"
+  },
+  {
+    "id": "elements/household/tekeli-earthen-pot",
+    "title": "Tekeli Earthen Pot",
+    "image": "media/elements/household/tekeli-earthen-pot.webp"
+  },
+  {
+    "id": "elements/household/xorai-bell-metal",
+    "title": "Xorai Bell Metal",
+    "image": "media/elements/household/xorai-bell-metal.webp"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "elements/plants/banana-homestead-plant",
+    "title": "Banana Homestead Plant",
+    "image": "media/elements/plants/banana-homestead-plant.webp"
+  },
+  {
+    "id": "elements/plants/bhaluka-bamboo-clump",
+    "title": "Bhaluka Bamboo Clump",
+    "image": "media/elements/plants/bhaluka-bamboo-clump.webp"
+  },
+  {
+    "id": "elements/plants/jati-bamboo-clump",
+    "title": "Jati Bamboo Clump",
+    "image": "media/elements/plants/jati-bamboo-clump.webp"
+  },
+  {
+    "id": "elements/plants/kopou-orchid-on-bark",
+    "title": "Kopou Orchid On Bark",
+    "image": "media/elements/plants/kopou-orchid-on-bark.webp"
+  },
+  {
+    "id": "elements/plants/nahor-tree",
+    "title": "Nahor Tree",
+    "image": "media/elements/plants/nahor-tree.webp"
+  },
+  {
+    "id": "elements/plants/paan-betel-vine",
+    "title": "Paan Betel Vine",
+    "image": "media/elements/plants/paan-betel-vine.webp"
+  },
+  {
+    "id": "elements/plants/tamul-areca-palm",
+    "title": "Tamul Areca Palm",
+    "image": "media/elements/plants/tamul-areca-palm.webp"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "scenes/1950s/1950s-01-namghar-exterior",
+    "title": "1950S 01 Namghar Exterior",
+    "image": "media/scenes/1950s/1950s-01-namghar-exterior.webp"
+  },
+  {
+    "id": "scenes/1950s/1950s-02-village-homestead",
+    "title": "1950S 02 Village Homestead",
+    "image": "media/scenes/1950s/1950s-02-village-homestead.webp"
+  },
+  {
+    "id": "scenes/1950s/1950s-03-kitchen-interior",
+    "title": "1950S 03 Kitchen Interior",
+    "image": "media/scenes/1950s/1950s-03-kitchen-interior.webp"
+  },
+  {
+    "id": "scenes/1950s/1950s-04-weaving-corner",
+    "title": "1950S 04 Weaving Corner",
+    "image": "media/scenes/1950s/1950s-04-weaving-corner.webp"
+  },
+  {
+    "id": "scenes/1950s/1950s-05-dheki-shed",
+    "title": "1950S 05 Dheki Shed",
+    "image": "media/scenes/1950s/1950s-05-dheki-shed.webp"
+  },
+  {
+    "id": "scenes/1950s/1950s-06-paddy-ploughing",
+    "title": "1950S 06 Paddy Ploughing",
+    "image": "media/scenes/1950s/1950s-06-paddy-ploughing.webp"
+  },
+  {
+    "id": "scenes/1950s/1950s-07-village-market",
+    "title": "1950S 07 Village Market",
+    "image": "media/scenes/1950s/1950s-07-village-market.webp"
+  },
+  {
+    "id": "scenes/1950s/1950s-08-river-landing",
+    "title": "1950S 08 River Landing",
+    "image": "media/scenes/1950s/1950s-08-river-landing.webp"
+  },
+  {
+    "id": "scenes/1950s/1950s-namghar-1950s-guru-asan",
+    "title": "1950S Namghar 1950S Guru Asan",
+    "image": "media/scenes/1950s/1950s-namghar-1950s-guru-asan.webp"
+  },
+  {
+    "id": "scenes/1950s/1950s-namghar-interior-wooden-pillars-straw-roof",
+    "title": "1950S Namghar Interior Wooden Pillars Straw Roof",
+    "image": "media/scenes/1950s/1950s-namghar-interior-wooden-pillars-straw-roof.webp"
+  }
+]
