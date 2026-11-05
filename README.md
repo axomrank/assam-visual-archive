@@ -26,3 +26,6 @@ Add a pack to `data/packs/index.json` and edit the linked files in
 `data/places/`, `data/periods/`, `data/claims/`, `data/sources/`,
 `data/assets/`, and `data/productions/`. See `schemas/pack.schema.json` and
 `AGENTS.md`. Run `python3 scripts/check_archive.py` before publishing.
+
+See the [historical coverage audit](docs/historical-coverage-audit.md) for the
+complete catalogue census and production research gaps.
