@@ -1,0 +1,14 @@
+[
+  {
+    "id": "scenes/present-day/vaiphei/vaiphei-man-sheet-1",
+    "title": "Vaiphei Man Sheet 1",
+    "image": "media/scenes/present-day/vaiphei/vaiphei-man-sheet-1.webp",
+    "note": "Present-day character illustration. Historical costume and appearance require separate, period-specific evidence."
+  },
+  {
+    "id": "scenes/present-day/vaiphei/vaiphei-woman-sheet-1",
+    "title": "Vaiphei Woman Sheet 1",
+    "image": "media/scenes/present-day/vaiphei/vaiphei-woman-sheet-1.webp",
+    "note": "Present-day character illustration. Historical costume and appearance require separate, period-specific evidence."
+  }
+]

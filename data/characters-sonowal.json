@@ -1,0 +1,20 @@
+[
+  {
+    "id": "scenes/present-day/sonowal/sonowal-man-sheet-1",
+    "title": "Sonowal Man Sheet 1",
+    "image": "media/scenes/present-day/sonowal/sonowal-man-sheet-1.webp",
+    "note": "Present-day character illustration. Historical costume and appearance require separate, period-specific evidence."
+  },
+  {
+    "id": "scenes/present-day/sonowal/sonowal-woman-cream-sheet-1",
+    "title": "Sonowal Woman Cream Sheet 1",
+    "image": "media/scenes/present-day/sonowal/sonowal-woman-cream-sheet-1.webp",
+    "note": "Present-day character illustration. Historical costume and appearance require separate, period-specific evidence."
+  },
+  {
+    "id": "scenes/present-day/sonowal/sonowal-woman-green-sheet-1",
+    "title": "Sonowal Woman Green Sheet 1",
+    "image": "media/scenes/present-day/sonowal/sonowal-woman-green-sheet-1.webp",
+    "note": "Present-day character illustration. Historical costume and appearance require separate, period-specific evidence."
+  }
+]

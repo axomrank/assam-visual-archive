@@ -111,6 +111,9 @@ try {
   for (const name of new Set(collections.map((group) => group.section))) {
     section.add(new Option(name, name));
   }
+  if (new URLSearchParams(location.search).get('category') === 'characters') {
+    section.value = 'Community character sheets';
+  }
   updateCollections();
   search.form.addEventListener('submit', (event) => event.preventDefault());
   search.addEventListener('input', filter);

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "scenes/present-day/garo/garo-man-sheet-1",
+    "title": "Garo Man Sheet 1",
+    "image": "media/scenes/present-day/garo/garo-man-sheet-1.webp",
+    "note": "Present-day character illustration. Historical costume and appearance require separate, period-specific evidence."
+  },
+  {
+    "id": "scenes/present-day/garo/garo-woman-sheet-1",
+    "title": "Garo Woman Sheet 1",
+    "image": "media/scenes/present-day/garo/garo-woman-sheet-1.webp",
+    "note": "Present-day character illustration. Historical costume and appearance require separate, period-specific evidence."
+  }
+]

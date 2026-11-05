@@ -1,0 +1,14 @@
+[
+  {
+    "id": "scenes/present-day/thado/thado-man-sheet-1",
+    "title": "Thado Man Sheet 1",
+    "image": "media/scenes/present-day/thado/thado-man-sheet-1.webp",
+    "note": "Present-day character illustration. Historical costume and appearance require separate, period-specific evidence."
+  },
+  {
+    "id": "scenes/present-day/thado/thado-woman-sheet-1",
+    "title": "Thado Woman Sheet 1",
+    "image": "media/scenes/present-day/thado/thado-woman-sheet-1.webp",
+    "note": "Present-day character illustration. Historical costume and appearance require separate, period-specific evidence."
+  }
+]

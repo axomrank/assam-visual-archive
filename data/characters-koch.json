@@ -1,0 +1,14 @@
+[
+  {
+    "id": "scenes/present-day/koch/koch-man-sheet-1",
+    "title": "Koch Man Sheet 1",
+    "image": "media/scenes/present-day/koch/koch-man-sheet-1.webp",
+    "note": "Present-day character illustration. Historical costume and appearance require separate, period-specific evidence."
+  },
+  {
+    "id": "scenes/present-day/koch/koch-woman-sheet-1",
+    "title": "Koch Woman Sheet 1",
+    "image": "media/scenes/present-day/koch/koch-woman-sheet-1.webp",
+    "note": "Present-day character illustration. Historical costume and appearance require separate, period-specific evidence."
+  }
+]

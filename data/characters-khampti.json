@@ -1,0 +1,14 @@
+[
+  {
+    "id": "scenes/present-day/khampti/khampti-man-sheet-1",
+    "title": "Khampti Man Sheet 1",
+    "image": "media/scenes/present-day/khampti/khampti-man-sheet-1.webp",
+    "note": "Present-day character illustration. Historical costume and appearance require separate, period-specific evidence."
+  },
+  {
+    "id": "scenes/present-day/khampti/khampti-woman-sheet-1",
+    "title": "Khampti Woman Sheet 1",
+    "image": "media/scenes/present-day/khampti/khampti-woman-sheet-1.webp",
+    "note": "Present-day character illustration. Historical costume and appearance require separate, period-specific evidence."
+  }
+]

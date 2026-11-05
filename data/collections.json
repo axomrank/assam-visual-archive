@@ -1,5 +1,239 @@
 [
   {
+    "id": "characters-ahom",
+    "section": "Community character sheets",
+    "title": "Ahom",
+    "file": "data/characters-ahom.json"
+  },
+  {
+    "id": "characters-barmans-in-cachar",
+    "section": "Community character sheets",
+    "title": "Barmans In Cachar",
+    "file": "data/characters-barmans-in-cachar.json"
+  },
+  {
+    "id": "characters-bhoi",
+    "section": "Community character sheets",
+    "title": "Bhoi",
+    "file": "data/characters-bhoi.json"
+  },
+  {
+    "id": "characters-bodo",
+    "section": "Community character sheets",
+    "title": "Bodo",
+    "file": "data/characters-bodo.json"
+  },
+  {
+    "id": "characters-chakma",
+    "section": "Community character sheets",
+    "title": "Chakma",
+    "file": "data/characters-chakma.json"
+  },
+  {
+    "id": "characters-chutiya",
+    "section": "Community character sheets",
+    "title": "Chutiya",
+    "file": "data/characters-chutiya.json"
+  },
+  {
+    "id": "characters-deori",
+    "section": "Community character sheets",
+    "title": "Deori",
+    "file": "data/characters-deori.json"
+  },
+  {
+    "id": "characters-dimasa",
+    "section": "Community character sheets",
+    "title": "Dimasa",
+    "file": "data/characters-dimasa.json"
+  },
+  {
+    "id": "characters-garo",
+    "section": "Community character sheets",
+    "title": "Garo",
+    "file": "data/characters-garo.json"
+  },
+  {
+    "id": "characters-hajong",
+    "section": "Community character sheets",
+    "title": "Hajong",
+    "file": "data/characters-hajong.json"
+  },
+  {
+    "id": "characters-hmar",
+    "section": "Community character sheets",
+    "title": "Hmar",
+    "file": "data/characters-hmar.json"
+  },
+  {
+    "id": "characters-jaintia-pnar",
+    "section": "Community character sheets",
+    "title": "Jaintia Pnar",
+    "file": "data/characters-jaintia-pnar.json"
+  },
+  {
+    "id": "characters-karbi",
+    "section": "Community character sheets",
+    "title": "Karbi",
+    "file": "data/characters-karbi.json"
+  },
+  {
+    "id": "characters-khampti",
+    "section": "Community character sheets",
+    "title": "Khampti",
+    "file": "data/characters-khampti.json"
+  },
+  {
+    "id": "characters-khasi",
+    "section": "Community character sheets",
+    "title": "Khasi",
+    "file": "data/characters-khasi.json"
+  },
+  {
+    "id": "characters-koch",
+    "section": "Community character sheets",
+    "title": "Koch",
+    "file": "data/characters-koch.json"
+  },
+  {
+    "id": "characters-kuki",
+    "section": "Community character sheets",
+    "title": "Kuki",
+    "file": "data/characters-kuki.json"
+  },
+  {
+    "id": "characters-lakher-mara",
+    "section": "Community character sheets",
+    "title": "Lakher Mara",
+    "file": "data/characters-lakher-mara.json"
+  },
+  {
+    "id": "characters-lyngngam",
+    "section": "Community character sheets",
+    "title": "Lyngngam",
+    "file": "data/characters-lyngngam.json"
+  },
+  {
+    "id": "characters-man-tai-speaking",
+    "section": "Community character sheets",
+    "title": "Man Tai Speaking",
+    "file": "data/characters-man-tai-speaking.json"
+  },
+  {
+    "id": "characters-matak-motok",
+    "section": "Community character sheets",
+    "title": "Matak Motok",
+    "file": "data/characters-matak-motok.json"
+  },
+  {
+    "id": "characters-mech",
+    "section": "Community character sheets",
+    "title": "Mech",
+    "file": "data/characters-mech.json"
+  },
+  {
+    "id": "characters-mishing",
+    "section": "Community character sheets",
+    "title": "Mishing",
+    "file": "data/characters-mishing.json"
+  },
+  {
+    "id": "characters-mizo",
+    "section": "Community character sheets",
+    "title": "Mizo",
+    "file": "data/characters-mizo.json"
+  },
+  {
+    "id": "characters-moran",
+    "section": "Community character sheets",
+    "title": "Moran",
+    "file": "data/characters-moran.json"
+  },
+  {
+    "id": "characters-naga-rengma",
+    "section": "Community character sheets",
+    "title": "Naga Rengma",
+    "file": "data/characters-naga-rengma.json"
+  },
+  {
+    "id": "characters-naga-zeliang",
+    "section": "Community character sheets",
+    "title": "Naga Zeliang",
+    "file": "data/characters-naga-zeliang.json"
+  },
+  {
+    "id": "characters-pawi-lai",
+    "section": "Community character sheets",
+    "title": "Pawi Lai",
+    "file": "data/characters-pawi-lai.json"
+  },
+  {
+    "id": "characters-rabha",
+    "section": "Community character sheets",
+    "title": "Rabha",
+    "file": "data/characters-rabha.json"
+  },
+  {
+    "id": "characters-rajbongshi",
+    "section": "Community character sheets",
+    "title": "Rajbongshi",
+    "file": "data/characters-rajbongshi.json"
+  },
+  {
+    "id": "characters-rangkhol",
+    "section": "Community character sheets",
+    "title": "Rangkhol",
+    "file": "data/characters-rangkhol.json"
+  },
+  {
+    "id": "characters-singpho",
+    "section": "Community character sheets",
+    "title": "Singpho",
+    "file": "data/characters-singpho.json"
+  },
+  {
+    "id": "characters-singri",
+    "section": "Community character sheets",
+    "title": "Singri",
+    "file": "data/characters-singri.json"
+  },
+  {
+    "id": "characters-sonowal",
+    "section": "Community character sheets",
+    "title": "Sonowal",
+    "file": "data/characters-sonowal.json"
+  },
+  {
+    "id": "characters-thado",
+    "section": "Community character sheets",
+    "title": "Thado",
+    "file": "data/characters-thado.json"
+  },
+  {
+    "id": "characters-thengal-kachari",
+    "section": "Community character sheets",
+    "title": "Thengal Kachari",
+    "file": "data/characters-thengal-kachari.json"
+  },
+  {
+    "id": "characters-tiwa",
+    "section": "Community character sheets",
+    "title": "Tiwa",
+    "file": "data/characters-tiwa.json"
+  },
+  {
+    "id": "characters-vaiphei",
+    "section": "Community character sheets",
+    "title": "Vaiphei",
+    "file": "data/characters-vaiphei.json"
+  },
+  {
+    "id": "characters-war",
+    "section": "Community character sheets",
+    "title": "War",
+    "file": "data/characters-war.json"
+  },
+  {
     "id": "scenes-15th-century",
     "section": "Scenes",
     "title": "15Th Century",

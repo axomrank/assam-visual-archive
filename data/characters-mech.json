@@ -1,0 +1,14 @@
+[
+  {
+    "id": "scenes/present-day/mech/mech-man-sheet-1",
+    "title": "Mech Man Sheet 1",
+    "image": "media/scenes/present-day/mech/mech-man-sheet-1.webp",
+    "note": "Present-day character illustration. Historical costume and appearance require separate, period-specific evidence."
+  },
+  {
+    "id": "scenes/present-day/mech/mech-woman-sheet-1",
+    "title": "Mech Woman Sheet 1",
+    "image": "media/scenes/present-day/mech/mech-woman-sheet-1.webp",
+    "note": "Present-day character illustration. Historical costume and appearance require separate, period-specific evidence."
+  }
+]
