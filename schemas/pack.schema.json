@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["id", "version", "title", "status", "summary", "place", "period", "claims", "assets", "production", "gaps"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"},
+    "version": {"type": "integer", "minimum": 1},
+    "title": {"type": "string"},
+    "status": {"type": "string"},
+    "summary": {"type": "string"},
+    "place": {"type": "string"},
+    "period": {"type": "string"},
+    "production": {"type": "string"},
+    "claims": {"type": "array", "items": {"type": "string"}},
+    "assets": {"type": "array", "items": {"type": "string"}},
+    "gaps": {"type": "array", "items": {"type": "string"}}
+  },
+  "additionalProperties": false
+}

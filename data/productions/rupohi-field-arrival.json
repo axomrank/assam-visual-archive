@@ -1,0 +1,25 @@
+{
+  "id": "rupohi-field-arrival",
+  "title": "Arrival at the field",
+  "kind": "fictional blocking exercise",
+  "shots": [
+    {
+      "id": "01",
+      "frame": "Wide exterior",
+      "action": "Establish the pavilion and the adjoining field.",
+      "continuity": "Keep the pavilion on the same side of the approach axis."
+    },
+    {
+      "id": "02",
+      "frame": "Medium follow",
+      "action": "A visitor crosses the edge of the field and slows to look toward the activity.",
+      "continuity": "Preserve direction of travel and the light established in shot 01."
+    },
+    {
+      "id": "03",
+      "frame": "Reverse reaction",
+      "action": "The visitor pauses. The activity remains offscreen.",
+      "continuity": "Match eyeline to the offscreen field and hold the same weather."
+    }
+  ]
+}

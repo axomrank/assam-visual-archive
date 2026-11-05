@@ -1,0 +1,10 @@
+{
+  "id": "rang-ghar-form",
+  "title": "Pavilion form and use",
+  "statement": "The district account describes a two-storey royal sports pavilion with an inverted boat-shaped roof. It associates the adjoining Rupohi Pothar with games including wrestling.",
+  "status": "source-checked",
+  "sources": [
+    "data/sources/sivasagar-rang-ghar.json"
+  ],
+  "limit": "The account does not establish the layout of a specific event, spectator placement, costume, or the original finish."
+}

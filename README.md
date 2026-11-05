@@ -15,3 +15,14 @@ Run `python3 -m http.server 8000` from the repository root and open `http://loca
 ## License
 
 The website code is MIT-licensed. Photographs retain the licenses shown in their records. Other media and linked sources retain their respective rights.
+
+## Historical film reference
+
+Open `packs.html` from the running server. The first pack covers a fictional
+arrival at Rang Ghar and includes source claims, reference images, a shot list,
+and a downloadable JSON brief. Its date range is a working production assumption.
+
+Add a pack to `data/packs/index.json` and edit the linked files in
+`data/places/`, `data/periods/`, `data/claims/`, `data/sources/`,
+`data/assets/`, and `data/productions/`. See `schemas/pack.schema.json` and
+`AGENTS.md`. Run `python3 scripts/check_archive.py` before publishing.

@@ -1,0 +1,16 @@
+{
+  "id": "rang-ghar-exterior",
+  "title": "Rang Ghar at noon",
+  "galleryId": "photos/rang-ghar/rang-ghar-002",
+  "kind": "later photograph",
+  "use": "Compare exterior massing and openings.",
+  "limit": "Modern ground conditions and visible finishes require separate historical evidence.",
+  "permissions": {
+    "display": "CC BY-SA 4.0, see gallery credit",
+    "generation": "Review license and tool terms for the intended workflow",
+    "filmRelease": "Review license for the intended edit"
+  },
+  "galleryFile": "data/photographs-rang-ghar.json",
+  "capturedAt": "2019-09-22",
+  "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Rang_Ghar_at_noon.jpg"
+}

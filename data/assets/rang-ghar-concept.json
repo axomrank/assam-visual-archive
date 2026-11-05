@@ -1,0 +1,25 @@
+{
+  "id": "rang-ghar-concept",
+  "title": "Pavilion across the field",
+  "kind": "AI-generated concept · unreviewed",
+  "image": "media/film-packs/rang-ghar/exterior-concept.webp",
+  "derivedFrom": [
+    "data/assets/rang-ghar-exterior.json",
+    "data/claims/rang-ghar-form.json"
+  ],
+  "credit": "AxomRank concept, generated with OpenAI ImageGen, based on a photograph by Dr Jagga",
+  "source": "https://commons.wikimedia.org/wiki/File:Rang_Ghar_at_noon.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "use": "Test the camera distance, framing and direction of approach.",
+  "limit": "The model altered the roof crest and openings. Surface finish, landscaping and proportions are speculative. Check the photograph and a measured plan before using this as an architecture reference.",
+  "permissions": {
+    "display": "CC BY-SA 4.0",
+    "filmRelease": "Review source obligations and secure historical review before production"
+  },
+  "generation": {
+    "tool": "OpenAI ImageGen",
+    "date": "2026-11-05",
+    "prompt": "Wide landscape production-design concept of mid-18th-century Rang Ghar. Use the modern photograph for exterior massing. Preserve the two-storey arches and inverted boat-like silhouette. Eye-level three-quarter shot from a grassy field in overcast daylight. Exclude modern paths, fences, signs, visitors and elaborate invented decoration."
+  }
+}

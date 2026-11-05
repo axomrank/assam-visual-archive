@@ -1,0 +1,12 @@
+{
+  "id": "rang-ghar-date",
+  "title": "Construction chronology",
+  "statement": "The district page dates the building to 1744. ARGUCOM gives 1746 for the present form. The DES report instead attributes construction to the reign of Rajeswar Singha.",
+  "status": "disputed",
+  "sources": [
+    "data/sources/sivasagar-rang-ghar.json",
+    "data/sources/argucom-sivasagar.json",
+    "data/sources/des-tourism-index.json"
+  ],
+  "limit": "The pilot assumes the pavilion was standing in its chosen window. Resolve the building phases against archaeological or period evidence before claiming an exact date."
+}

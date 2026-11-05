@@ -1,0 +1,24 @@
+{
+  "id": "rang-ghar",
+  "version": 1,
+  "title": "Rang Ghar and Rupohi Pothar",
+  "status": "Research pilot",
+  "summary": "A mid-18th-century exterior blocking study for an Assamese historical film.",
+  "place": "data/places/rang-ghar.json",
+  "period": "data/periods/mid-18th-century.json",
+  "claims": [
+    "data/claims/rang-ghar-form.json",
+    "data/claims/rang-ghar-date.json"
+  ],
+  "assets": [
+    "data/assets/rang-ghar-exterior.json",
+    "data/assets/rang-ghar-concept.json"
+  ],
+  "production": "data/productions/rupohi-field-arrival.json",
+  "gaps": [
+    "Find archaeology or period records that distinguish construction phases.",
+    "Verify historical ground plan, entry routes and building finishes.",
+    "Source clothing, footwear and crowd placement for the specific people and occasion.",
+    "Collect evidence for forms of address, period vocabulary and event sound."
+  ]
+}
