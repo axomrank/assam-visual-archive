@@ -1,0 +1,72 @@
+{
+  "tool": "Built-in image_gen",
+  "date": "2026-11-24",
+  "inputs": "Text prompts only.",
+  "review": "Visually reviewed for gallery suitability. Fictional landscapes; agricultural and cultural details not independently verified.",
+  "permissions": {
+    "display": "Generated for publication at the owner's request.",
+    "production": "No third-party source photographs used; no separate production license asserted."
+  },
+  "images": [
+    {
+      "slug": "ai-season-paddy-transplanting",
+      "title": "Newly transplanted paddy — AI illustration",
+      "description": "A flat rural Assam landscape of flooded rice plots reflecting an overcast sky, neat rows of very young green seedlings, narrow earthen bunds, distant bamboo and banana plants. No people.",
+      "prompt": "Use case: photorealistic-natural. Asset type: single wide landscape AI illustration for Assam Visual Archive. Scene: A flat rural Assam landscape of flooded rice plots reflecting an overcast sky, neat rows of very young green seedlings, narrow earthen bunds, distant bamboo and banana plants. No people. Natural believable textures, refined landscape composition, restrained realistic colors. Fictional landscape inspired by Assam, not a documented location. No text, watermark, labels, collage or frame."
+    },
+    {
+      "slug": "ai-season-lush-green-paddy",
+      "title": "Lush green rice fields — AI illustration",
+      "description": "Broad lush green rice fields in rural Assam, dense vibrant upright rice plants, narrow winding earthen paths, distant village tree line with bamboo and areca palms, soft morning light. Flat terrain.",
+      "prompt": "Use case: photorealistic-natural. Asset type: single wide landscape AI illustration for Assam Visual Archive. Scene: Broad lush green rice fields in rural Assam, dense vibrant upright rice plants, narrow winding earthen paths, distant village tree line with bamboo and areca palms, soft morning light. Flat terrain. Natural believable textures, refined landscape composition, restrained realistic colors. Fictional landscape inspired by Assam, not a documented location. No text, watermark, labels, collage or frame."
+    },
+    {
+      "slug": "ai-season-ripe-golden-paddy",
+      "title": "Ripe golden rice fields — AI illustration",
+      "description": "An expansive ripe golden paddy field in rural Assam, foreground heavy rice panicles bending naturally, narrow earthen bund, distant bamboo grove and modest tin-roof homesteads, warm autumn afternoon.",
+      "prompt": "Use case: photorealistic-natural. Asset type: single wide landscape AI illustration for Assam Visual Archive. Scene: An expansive ripe golden paddy field in rural Assam, foreground heavy rice panicles bending naturally, narrow earthen bund, distant bamboo grove and modest tin-roof homesteads, warm autumn afternoon. Natural believable textures, refined landscape composition, restrained realistic colors. Fictional landscape inspired by Assam, not a documented location. No text, watermark, labels, collage or frame."
+    },
+    {
+      "slug": "ai-season-rice-harvest",
+      "title": "Rice harvest landscape — AI illustration",
+      "description": "A rural Assam field after rice harvest with short stubble, neatly tied cut rice bundles and a few rounded haystacks, an earthen path leading to modest village homes amid bamboo and banana, gentle late afternoon light. No people.",
+      "prompt": "Use case: photorealistic-natural. Asset type: single wide landscape AI illustration for Assam Visual Archive. Scene: A rural Assam field after rice harvest with short stubble, neatly tied cut rice bundles and a few rounded haystacks, an earthen path leading to modest village homes amid bamboo and banana, gentle late afternoon light. No people. Natural believable textures, refined landscape composition, restrained realistic colors. Fictional landscape inspired by Assam, not a documented location. No text, watermark, labels, collage or frame."
+    },
+    {
+      "slug": "ai-season-winter-mustard",
+      "title": "Winter mustard fields — AI illustration",
+      "description": "Bright yellow mustard flowers beside small winter vegetable plots in the flat Assam countryside, foreground blossoms, bamboo grove and modest homestead far away, pale cool winter morning haze.",
+      "prompt": "Use case: photorealistic-natural. Asset type: single wide landscape AI illustration for Assam Visual Archive. Scene: Bright yellow mustard flowers beside small winter vegetable plots in the flat Assam countryside, foreground blossoms, bamboo grove and modest homestead far away, pale cool winter morning haze. Natural believable textures, refined landscape composition, restrained realistic colors. Fictional landscape inspired by Assam, not a documented location. No text, watermark, labels, collage or frame."
+    },
+    {
+      "slug": "ai-season-village-pond",
+      "title": "Village pond with water lilies — AI illustration",
+      "description": "A quiet village pond in Assam, scattered water lilies and lotus leaves, reflections of bamboo and areca palms, grassy bank and a small simple bamboo landing, modest homestead in background, natural humid daylight.",
+      "prompt": "Use case: photorealistic-natural. Asset type: single wide landscape AI illustration for Assam Visual Archive. Scene: A quiet village pond in Assam, scattered water lilies and lotus leaves, reflections of bamboo and areca palms, grassy bank and a small simple bamboo landing, modest homestead in background, natural humid daylight. Natural believable textures, refined landscape composition, restrained realistic colors. Fictional landscape inspired by Assam, not a documented location. No text, watermark, labels, collage or frame."
+    },
+    {
+      "slug": "ai-season-homestead-orchard",
+      "title": "Orchard and kitchen garden — AI illustration",
+      "description": "A rural Assam homestead garden with areca palms, banana plants, citrus trees and a small kitchen vegetable patch, bamboo fencing and a modest tin-roof house in the distance, dappled morning light. No people.",
+      "prompt": "Use case: photorealistic-natural. Asset type: single wide landscape AI illustration for Assam Visual Archive. Scene: A rural Assam homestead garden with areca palms, banana plants, citrus trees and a small kitchen vegetable patch, bamboo fencing and a modest tin-roof house in the distance, dappled morning light. No people. Natural believable textures, refined landscape composition, restrained realistic colors. Fictional landscape inspired by Assam, not a documented location. No text, watermark, labels, collage or frame."
+    },
+    {
+      "slug": "ai-season-monsoon-village",
+      "title": "Monsoon village landscape — AI illustration",
+      "description": "An Assam village lane after heavy monsoon rain, puddles reflecting dramatic gray clouds, saturated green paddy beside a full drainage channel, banana and bamboo, modest raised homes in distance, realistic damp earth. No disaster or people.",
+      "prompt": "Use case: photorealistic-natural. Asset type: single wide landscape AI illustration for Assam Visual Archive. Scene: An Assam village lane after heavy monsoon rain, puddles reflecting dramatic gray clouds, saturated green paddy beside a full drainage channel, banana and bamboo, modest raised homes in distance, realistic damp earth. No disaster or people. Natural believable textures, refined landscape composition, restrained realistic colors. Fictional landscape inspired by Assam, not a documented location. No text, watermark, labels, collage or frame."
+    },
+    {
+      "slug": "ai-season-hill-stream",
+      "title": "Forested hill stream — AI illustration",
+      "description": "A clear rocky hill stream in Assam hill country, small natural cascade over dark boulders, dense broadleaf forest and bamboo, ferns on damp banks, filtered daylight. No snowy mountains, no buildings.",
+      "prompt": "Use case: photorealistic-natural. Asset type: single wide landscape AI illustration for Assam Visual Archive. Scene: A clear rocky hill stream in Assam hill country, small natural cascade over dark boulders, dense broadleaf forest and bamboo, ferns on damp banks, filtered daylight. No snowy mountains, no buildings. Natural believable textures, refined landscape composition, restrained realistic colors. Fictional landscape inspired by Assam, not a documented location. No text, watermark, labels, collage or frame."
+    },
+    {
+      "slug": "ai-season-winter-beel",
+      "title": "Winter wetland landscape — AI illustration",
+      "description": "A broad lowland Assam beel in winter with shallow water, exposed mudflats, dry golden reeds and distant tiny waterbirds, flat horizon with a low tree line, cool silver morning mist. No prominent birds in foreground.",
+      "prompt": "Use case: photorealistic-natural. Asset type: single wide landscape AI illustration for Assam Visual Archive. Scene: A broad lowland Assam beel in winter with shallow water, exposed mudflats, dry golden reeds and distant tiny waterbirds, flat horizon with a low tree line, cool silver morning mist. No prominent birds in foreground. Natural believable textures, refined landscape composition, restrained realistic colors. Fictional landscape inspired by Assam, not a documented location. No text, watermark, labels, collage or frame."
+    }
+  ]
+}
