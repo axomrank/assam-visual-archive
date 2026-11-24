@@ -1,0 +1,15 @@
+{
+  "tool": "Built-in image_gen",
+  "date": "2026-11-24",
+  "inputs": "Text prompts only; no reference photographs used.",
+  "review": "Visually reviewed for composition and gallery suitability. Fictional scenes; exact geography and cultural details not independently verified.",
+  "permissions": {
+    "display": "Generated for publication on the archive at the owner's request.",
+    "production": "No third-party source images used; no additional production license asserted."
+  },
+  "prompts": [
+    "Use case: photorealistic-natural. Asset: AI-generated Assamese landscape gallery illustration. Create a single wide landscape of a Brahmaputra-inspired river at dawn in Assam: broad water, sandy river island, small wooden fishing boat near foreground bank, soft mist and pale peach sky. Natural textures and subtle cinematic light. Evocative fictional scene, not a documented location. No text, watermark, collage or frame.",
+    "Use case: photorealistic-natural. Asset: AI-generated Assamese landscape gallery illustration. Create a single wide landscape inspired by Assam tea country after a monsoon shower: orderly lush tea bushes following gently rolling land, scattered tall shade trees, low mist and cloudy morning light, wet earthy path. Quiet natural realism, no buildings needed, no people. Fictional scene. No text, watermark, collage or frame.",
+    "Use case: photorealistic-natural. Asset: AI-generated Assamese landscape gallery illustration. Create a single wide landscape inspired by rural Assam in harvest season: golden paddy fields, narrow earthen footpath, bamboo grove and a modest bamboo-and-thatch raised house in the distance, banana plants, warm late afternoon light under soft clouds. Plausible humid lowland terrain. Fictional scene. No text, watermark, collage or frame."
+  ]
+}

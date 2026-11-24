@@ -58,5 +58,29 @@
     "id": "scenes/present-day/now-wet-rice-homestead-dawn",
     "title": "Now Wet Rice Homestead Dawn",
     "image": "media/scenes/present-day/now-wet-rice-homestead-dawn.webp"
+  },
+  {
+    "id": "scenes/present-day/ai-brahmaputra-inspired-dawn",
+    "title": "River at dawn — AI illustration",
+    "image": "media/scenes/present-day/ai-brahmaputra-inspired-dawn.png",
+    "alt": "A wooden fishing boat beside a broad river, sandy island and misty hills at dawn.",
+    "note": "AI-generated fictional landscape inspired by Assam. No specific location or community is asserted. Generated with the built-in image generation tool; visually reviewed for gallery use, cultural details not independently verified.",
+    "credit": "AxomRank · AI-generated illustration"
+  },
+  {
+    "id": "scenes/present-day/ai-tea-garden-after-rain",
+    "title": "Assam tea garden after rain — AI illustration",
+    "image": "media/scenes/present-day/ai-tea-garden-after-rain.png",
+    "alt": "Green tea bushes, shade trees and a wet path beneath a misty sky.",
+    "note": "AI-generated fictional landscape inspired by Assam. No specific location or community is asserted. Generated with the built-in image generation tool; visually reviewed for gallery use, cultural details not independently verified.",
+    "credit": "AxomRank · AI-generated illustration"
+  },
+  {
+    "id": "scenes/present-day/ai-paddy-fields-golden-hour",
+    "title": "Paddy fields at golden hour — AI illustration",
+    "image": "media/scenes/present-day/ai-paddy-fields-golden-hour.png",
+    "alt": "Golden paddy fields, bamboo, banana plants and a raised thatched house beside an earthen path.",
+    "note": "AI-generated fictional landscape inspired by Assam. No specific location or community is asserted. Generated with the built-in image generation tool; visually reviewed for gallery use, cultural details not independently verified.",
+    "credit": "AxomRank · AI-generated illustration"
   }
 ]
