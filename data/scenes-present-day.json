@@ -82,5 +82,85 @@
     "alt": "Golden paddy fields, bamboo, banana plants and a raised thatched house beside an earthen path.",
     "note": "AI-generated fictional landscape inspired by Assam. No specific location or community is asserted. Generated with the built-in image generation tool; visually reviewed for gallery use, cultural details not independently verified.",
     "credit": "AxomRank · AI-generated illustration"
+  },
+  {
+    "id": "scenes/present-day/ai-majuli-river-island",
+    "title": "Majuli-inspired river island — AI illustration",
+    "image": "media/scenes/present-day/ai-majuli-river-island.png",
+    "alt": "Majuli-inspired river island — AI illustration. A broad sandy river island with reed beds, a narrow channel, distant bamboo homesteads and soft morning mist; flat brahmaputra floodplain.",
+    "note": "AI-generated fictional landscape inspired by this region of Assam. No exact viewpoint is asserted. Visually reviewed for gallery use; geographic and cultural details are not independently verified.",
+    "credit": "AxomRank · AI-generated illustration"
+  },
+  {
+    "id": "scenes/present-day/ai-dima-hasao-hills",
+    "title": "Dima Hasao-inspired hills — AI illustration",
+    "image": "media/scenes/present-day/ai-dima-hasao-hills.png",
+    "alt": "Dima Hasao-inspired hills — AI illustration. Layered forested hills with a winding valley, patches of low cloud and a small distant hillside settlement; lush southern assam hill country.",
+    "note": "AI-generated fictional landscape inspired by this region of Assam. No exact viewpoint is asserted. Visually reviewed for gallery use; geographic and cultural details are not independently verified.",
+    "credit": "AxomRank · AI-generated illustration"
+  },
+  {
+    "id": "scenes/present-day/ai-barak-valley",
+    "title": "Barak Valley-inspired river bend — AI illustration",
+    "image": "media/scenes/present-day/ai-barak-valley.png",
+    "alt": "Barak Valley-inspired river bend — AI illustration. A winding muddy river through lush lowland fields, bamboo groves and scattered tin-roofed homes beneath humid monsoon clouds.",
+    "note": "AI-generated fictional landscape inspired by this region of Assam. No exact viewpoint is asserted. Visually reviewed for gallery use; geographic and cultural details are not independently verified.",
+    "credit": "AxomRank · AI-generated illustration"
+  },
+  {
+    "id": "scenes/present-day/ai-karbi-anglong",
+    "title": "Karbi Anglong-inspired uplands — AI illustration",
+    "image": "media/scenes/present-day/ai-karbi-anglong.png",
+    "alt": "Karbi Anglong-inspired uplands — AI illustration. Gently rolling wooded uplands, bamboo stands and small cultivated clearings in soft afternoon light; no generic himalayan snow peaks.",
+    "note": "AI-generated fictional landscape inspired by this region of Assam. No exact viewpoint is asserted. Visually reviewed for gallery use; geographic and cultural details are not independently verified.",
+    "credit": "AxomRank · AI-generated illustration"
+  },
+  {
+    "id": "scenes/present-day/ai-deepor-beel-wetland",
+    "title": "Deepor Beel-inspired wetland — AI illustration",
+    "image": "media/scenes/present-day/ai-deepor-beel-wetland.png",
+    "alt": "Deepor Beel-inspired wetland — AI illustration. A wide tranquil freshwater wetland with floating vegetation, reeds, distant low wooded hills and a few small waterbirds beneath a pastel evening sky.",
+    "note": "AI-generated fictional landscape inspired by this region of Assam. No exact viewpoint is asserted. Visually reviewed for gallery use; geographic and cultural details are not independently verified.",
+    "credit": "AxomRank · AI-generated illustration"
+  },
+  {
+    "id": "scenes/present-day/ai-manas-foothills",
+    "title": "Manas-inspired foothill grasslands — AI illustration",
+    "image": "media/scenes/present-day/ai-manas-foothills.png",
+    "alt": "Manas-inspired foothill grasslands — AI illustration. Tall alluvial grassland beside a clear gravel-bed river, dense forest edge and hazy distant foothills in crisp early morning light; no safari vehicles.",
+    "note": "AI-generated fictional landscape inspired by this region of Assam. No exact viewpoint is asserted. Visually reviewed for gallery use; geographic and cultural details are not independently verified.",
+    "credit": "AxomRank · AI-generated illustration"
+  },
+  {
+    "id": "scenes/present-day/ai-dibru-saikhowa",
+    "title": "Dibru-Saikhowa-inspired riverine forest — AI illustration",
+    "image": "media/scenes/present-day/ai-dibru-saikhowa.png",
+    "alt": "Dibru-Saikhowa-inspired riverine forest — AI illustration. Interlaced shallow river channels, sandy bars, waterlogged woodland and tall reeds under luminous post-rain skies.",
+    "note": "AI-generated fictional landscape inspired by this region of Assam. No exact viewpoint is asserted. Visually reviewed for gallery use; geographic and cultural details are not independently verified.",
+    "credit": "AxomRank · AI-generated illustration"
+  },
+  {
+    "id": "scenes/present-day/ai-sadiya-floodplain",
+    "title": "Sadiya-inspired eastern floodplain — AI illustration",
+    "image": "media/scenes/present-day/ai-sadiya-floodplain.png",
+    "alt": "Sadiya-inspired eastern floodplain — AI illustration. Wide braided river channels and gravel bars, green floodplain fields and blue distant foothills under clear morning light.",
+    "note": "AI-generated fictional landscape inspired by this region of Assam. No exact viewpoint is asserted. Visually reviewed for gallery use; geographic and cultural details are not independently verified.",
+    "credit": "AxomRank · AI-generated illustration"
+  },
+  {
+    "id": "scenes/present-day/ai-dhubri-char",
+    "title": "Dhubri-inspired western river char — AI illustration",
+    "image": "media/scenes/present-day/ai-dhubri-char.png",
+    "alt": "Dhubri-inspired western river char — AI illustration. A broad flat sandy river char with patches of seasonal crops, simple distant riverbank dwellings and wooden boats, warm hazy late afternoon.",
+    "note": "AI-generated fictional landscape inspired by this region of Assam. No exact viewpoint is asserted. Visually reviewed for gallery use; geographic and cultural details are not independently verified.",
+    "credit": "AxomRank · AI-generated illustration"
+  },
+  {
+    "id": "scenes/present-day/ai-north-bank-paddy",
+    "title": "North-bank foothill paddy landscape — AI illustration",
+    "image": "media/scenes/present-day/ai-north-bank-paddy.png",
+    "alt": "North-bank foothill paddy landscape — AI illustration. Vivid green rice fields, a narrow irrigation stream, bamboo grove and a distant hazy foothill skyline inspired by the north bank of assam; gentle overcast light.",
+    "note": "AI-generated fictional landscape inspired by this region of Assam. No exact viewpoint is asserted. Visually reviewed for gallery use; geographic and cultural details are not independently verified.",
+    "credit": "AxomRank · AI-generated illustration"
   }
 ]

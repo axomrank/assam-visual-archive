@@ -1,0 +1,72 @@
+{
+  "tool": "Built-in image_gen",
+  "date": "2026-11-24",
+  "inputs": "Text prompts only.",
+  "review": "Visually reviewed for composition and suitability. Fictional regional interpretations; no exact location or independent geographic verification asserted.",
+  "permissions": {
+    "display": "Generated for publication at the archive owner's request.",
+    "production": "No source photographs used; no separate production license asserted."
+  },
+  "images": [
+    {
+      "slug": "ai-majuli-river-island",
+      "title": "Majuli-inspired river island — AI illustration",
+      "description": "a broad sandy river island with reed beds, a narrow channel, distant bamboo homesteads and soft morning mist; flat Brahmaputra floodplain",
+      "prompt": "Use case: photorealistic-natural. Asset type: single wide AI landscape illustration for Assam Visual Archive. Primary request: Majuli-inspired river island. Scene: a broad sandy river island with reed beds, a narrow channel, distant bamboo homesteads and soft morning mist; flat Brahmaputra floodplain. Natural textures, geographically plausible terrain and vegetation, refined landscape composition, restrained realistic colors. This is a fictional artistic interpretation inspired by the region, not a documented viewpoint or exact location. No text, labels, watermarks, collage or frame. Do not invent monumental architecture."
+    },
+    {
+      "slug": "ai-dima-hasao-hills",
+      "title": "Dima Hasao-inspired hills — AI illustration",
+      "description": "layered forested hills with a winding valley, patches of low cloud and a small distant hillside settlement; lush southern Assam hill country",
+      "prompt": "Use case: photorealistic-natural. Asset type: single wide AI landscape illustration for Assam Visual Archive. Primary request: Dima Hasao-inspired hills. Scene: layered forested hills with a winding valley, patches of low cloud and a small distant hillside settlement; lush southern Assam hill country. Natural textures, geographically plausible terrain and vegetation, refined landscape composition, restrained realistic colors. This is a fictional artistic interpretation inspired by the region, not a documented viewpoint or exact location. No text, labels, watermarks, collage or frame. Do not invent monumental architecture."
+    },
+    {
+      "slug": "ai-barak-valley",
+      "title": "Barak Valley-inspired river bend — AI illustration",
+      "description": "a winding muddy river through lush lowland fields, bamboo groves and scattered tin-roofed homes beneath humid monsoon clouds",
+      "prompt": "Use case: photorealistic-natural. Asset type: single wide AI landscape illustration for Assam Visual Archive. Primary request: Barak Valley-inspired river bend. Scene: a winding muddy river through lush lowland fields, bamboo groves and scattered tin-roofed homes beneath humid monsoon clouds. Natural textures, geographically plausible terrain and vegetation, refined landscape composition, restrained realistic colors. This is a fictional artistic interpretation inspired by the region, not a documented viewpoint or exact location. No text, labels, watermarks, collage or frame. Do not invent monumental architecture."
+    },
+    {
+      "slug": "ai-karbi-anglong",
+      "title": "Karbi Anglong-inspired uplands — AI illustration",
+      "description": "gently rolling wooded uplands, bamboo stands and small cultivated clearings in soft afternoon light; no generic Himalayan snow peaks",
+      "prompt": "Use case: photorealistic-natural. Asset type: single wide AI landscape illustration for Assam Visual Archive. Primary request: Karbi Anglong-inspired uplands. Scene: gently rolling wooded uplands, bamboo stands and small cultivated clearings in soft afternoon light; no generic Himalayan snow peaks. Natural textures, geographically plausible terrain and vegetation, refined landscape composition, restrained realistic colors. This is a fictional artistic interpretation inspired by the region, not a documented viewpoint or exact location. No text, labels, watermarks, collage or frame. Do not invent monumental architecture."
+    },
+    {
+      "slug": "ai-deepor-beel-wetland",
+      "title": "Deepor Beel-inspired wetland — AI illustration",
+      "description": "a wide tranquil freshwater wetland with floating vegetation, reeds, distant low wooded hills and a few small waterbirds beneath a pastel evening sky",
+      "prompt": "Use case: photorealistic-natural. Asset type: single wide AI landscape illustration for Assam Visual Archive. Primary request: Deepor Beel-inspired wetland. Scene: a wide tranquil freshwater wetland with floating vegetation, reeds, distant low wooded hills and a few small waterbirds beneath a pastel evening sky. Natural textures, geographically plausible terrain and vegetation, refined landscape composition, restrained realistic colors. This is a fictional artistic interpretation inspired by the region, not a documented viewpoint or exact location. No text, labels, watermarks, collage or frame. Do not invent monumental architecture."
+    },
+    {
+      "slug": "ai-manas-foothills",
+      "title": "Manas-inspired foothill grasslands — AI illustration",
+      "description": "tall alluvial grassland beside a clear gravel-bed river, dense forest edge and hazy distant foothills in crisp early morning light; no safari vehicles",
+      "prompt": "Use case: photorealistic-natural. Asset type: single wide AI landscape illustration for Assam Visual Archive. Primary request: Manas-inspired foothill grasslands. Scene: tall alluvial grassland beside a clear gravel-bed river, dense forest edge and hazy distant foothills in crisp early morning light; no safari vehicles. Natural textures, geographically plausible terrain and vegetation, refined landscape composition, restrained realistic colors. This is a fictional artistic interpretation inspired by the region, not a documented viewpoint or exact location. No text, labels, watermarks, collage or frame. Do not invent monumental architecture."
+    },
+    {
+      "slug": "ai-dibru-saikhowa",
+      "title": "Dibru-Saikhowa-inspired riverine forest — AI illustration",
+      "description": "interlaced shallow river channels, sandy bars, waterlogged woodland and tall reeds under luminous post-rain skies",
+      "prompt": "Use case: photorealistic-natural. Asset type: single wide AI landscape illustration for Assam Visual Archive. Primary request: Dibru-Saikhowa-inspired riverine forest. Scene: interlaced shallow river channels, sandy bars, waterlogged woodland and tall reeds under luminous post-rain skies. Natural textures, geographically plausible terrain and vegetation, refined landscape composition, restrained realistic colors. This is a fictional artistic interpretation inspired by the region, not a documented viewpoint or exact location. No text, labels, watermarks, collage or frame. Do not invent monumental architecture."
+    },
+    {
+      "slug": "ai-sadiya-floodplain",
+      "title": "Sadiya-inspired eastern floodplain — AI illustration",
+      "description": "wide braided river channels and gravel bars, green floodplain fields and blue distant foothills under clear morning light",
+      "prompt": "Use case: photorealistic-natural. Asset type: single wide AI landscape illustration for Assam Visual Archive. Primary request: Sadiya-inspired eastern floodplain. Scene: wide braided river channels and gravel bars, green floodplain fields and blue distant foothills under clear morning light. Natural textures, geographically plausible terrain and vegetation, refined landscape composition, restrained realistic colors. This is a fictional artistic interpretation inspired by the region, not a documented viewpoint or exact location. No text, labels, watermarks, collage or frame. Do not invent monumental architecture."
+    },
+    {
+      "slug": "ai-dhubri-char",
+      "title": "Dhubri-inspired western river char — AI illustration",
+      "description": "a broad flat sandy river char with patches of seasonal crops, simple distant riverbank dwellings and wooden boats, warm hazy late afternoon",
+      "prompt": "Use case: photorealistic-natural. Asset type: single wide AI landscape illustration for Assam Visual Archive. Primary request: Dhubri-inspired western river char. Scene: a broad flat sandy river char with patches of seasonal crops, simple distant riverbank dwellings and wooden boats, warm hazy late afternoon. Natural textures, geographically plausible terrain and vegetation, refined landscape composition, restrained realistic colors. This is a fictional artistic interpretation inspired by the region, not a documented viewpoint or exact location. No text, labels, watermarks, collage or frame. Do not invent monumental architecture."
+    },
+    {
+      "slug": "ai-north-bank-paddy",
+      "title": "North-bank foothill paddy landscape — AI illustration",
+      "description": "vivid green rice fields, a narrow irrigation stream, bamboo grove and a distant hazy foothill skyline inspired by the north bank of Assam; gentle overcast light",
+      "prompt": "Use case: photorealistic-natural. Asset type: single wide AI landscape illustration for Assam Visual Archive. Primary request: North-bank foothill paddy landscape. Scene: vivid green rice fields, a narrow irrigation stream, bamboo grove and a distant hazy foothill skyline inspired by the north bank of Assam; gentle overcast light. Natural textures, geographically plausible terrain and vegetation, refined landscape composition, restrained realistic colors. This is a fictional artistic interpretation inspired by the region, not a documented viewpoint or exact location. No text, labels, watermarks, collage or frame. Do not invent monumental architecture."
+    }
+  ]
+}
